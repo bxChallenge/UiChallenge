@@ -28,3 +28,8 @@ YOU decide over what controls and components you want to use. Feel free to use a
 - The delivered result does NOT have to be complete/finished at all. We just want to see how your approach is and how you solve issues
 - You are free to include more features, you don't have to. 
 Don't invest more than 4 hours
+
+## Submit your results
+- Please clone the repository (do not fork it)
+- Submit the solution in a **private** repository in your account
+- Before your interview, please grant access to the solution to this github user ('bxChallenge')
